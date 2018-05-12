@@ -6,16 +6,18 @@ covers:
 creator:
   authors:
   - agent_name: Fisk, Eugene Lyman
-    birthdate: &id001 1867
+    birthdate: 1867
     gutenberg_agent_id: '8774'
     url: http://www.gutenberg.org/2009/agents/8774
   - agent_name: Fisher, Irving
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1947
     gutenberg_agent_id: '8773'
     url: http://www.gutenberg.org/2009/agents/8773
     wikipedia: https://en.wikipedia.org/wiki/Irving_Fisher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19598#How-to-Live--Rules-for-Healthful-Living-Based-on-Modern-Science
 gutenberg_issued: '2006-10-21'
 gutenberg_type: Text
 identifiers:
